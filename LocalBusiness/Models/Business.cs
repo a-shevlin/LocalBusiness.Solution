@@ -1,5 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-
 namespace LocalBusiness.Models
 {
   public class Business
